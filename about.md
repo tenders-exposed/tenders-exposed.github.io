@@ -1,11 +1,27 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+**El.vis** is your friendly guide through the world of public spending. Who gets the most money? Who gets the most contracts? Who has been a business partner of your government for a long time?
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+We have developed el.vis for journalists that are curious about where public money is spent. Through network visualizations of spending, journalists can discover patterns in the contract of their country. We currently have data on Netherlands, The UK, Germany, Greece and Slovakia. More are coming!
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+El.vis is free. Create an account and start exploring!
+
+For questions please contact us at adriana [at] homolova [dot] .sk
+
+**El.vis is a project of**
+
+![](/assets/images/investico.png)
+
+---
+
+**And these are our sponsors:**
+
+![](/assets/images/creative-industries-fund.jpg)
+![](/assets/images/democracy-media-foundation.png)
+![](/assets/images/aanbestedingskalender.png)
+
+
